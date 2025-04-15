@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "SocialBlock",
+  "version": "2.0.0",
+  "productName": "SocialBlock Launcher",
+  "description": "Semi RP PvP",
+  "author": "Cleder83 ",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://www.socialblock.strator.gg/"
   },
   "private": true,
   "main": "index.js",
